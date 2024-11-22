@@ -16,7 +16,7 @@ export default function PolesMap(){
                 const layers = [
                     {
                         type:LayerTypes.WebGLPoints,
-                        url:'https://citizenwarn-api-dev.azurewebsites.net/api/Pole/GetPoleGeometricFeatures?municipalityId=161',
+                        url:'https://citizenwarn-api-dev.azurewebsites.net/api/Pole/GetPoleGeometricFeatures',
                         // minZoom:5,
                         // maxZoom:18,
                         featuresloadend:(vs:any)=>{
