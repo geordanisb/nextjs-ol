@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NETCORE_MINIMAL_API", "NETCORE_MINIMAL_API", "{333F4B38-651A-4049-91F3-5CCECAF814FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nextjs-ol-api", "NETCORE_MINIMAL_API\nextjs-ol-api\nextjs-ol-api.csproj", "{17DE287E-3F28-4F36-BFA8-926232778223}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17DE287E-3F28-4F36-BFA8-926232778223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17DE287E-3F28-4F36-BFA8-926232778223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17DE287E-3F28-4F36-BFA8-926232778223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17DE287E-3F28-4F36-BFA8-926232778223}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{17DE287E-3F28-4F36-BFA8-926232778223} = {333F4B38-651A-4049-91F3-5CCECAF814FA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4B20D78-7BFF-44C2-A621-193EFC012EB3}
+	EndGlobalSection
+EndGlobal
